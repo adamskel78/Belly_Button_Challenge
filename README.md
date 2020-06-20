@@ -1,1 +1,3 @@
 # Belly_Button_Challenge
+
+This project was designed to show how java script could be used to show data in a webpage. There are many advantages to displaying data in a web page rather than a program like jupyter notebooks. We were tasked to create a web page that would display information from participants in a belly button bacteria study. A company named Impossible Beef is looking for bacteria that can be grown to mimic the flavor of beef. The goal of the programming challenge is to build a website that will allow both participants and researchers to use the ID numbers to access the information found in the study.
